@@ -203,7 +203,7 @@ header nav .form i{
   position: relative;
   min-height: 100vh;
   background-color: var(--sectionBackgrounColor);
-  background-image: url(/images/Background-Images/parallel-world_1280x720.jpg);
+  background-image: url(../images/Background-Images/the-cosmic-torii_1280x720.jpg);
   background-size: cover;
 }
 .landing .overlay{
@@ -345,7 +345,7 @@ header nav .form i{
   position: relative;
   min-height: 600px;
   background-size: cover;
-  background-image: url(/images/Background-Images/the-cosmic-torii_1280x720.jpg);
+  background-image: url(../images/Background-Images/forest_1280x720.jpg);
   background-color: var(--sectionBackgrounColor);
   display: flex;
   align-items: center;
@@ -588,7 +588,7 @@ header nav .form i{
   padding-top: var(--sectionPadding);
   padding-bottom: var(--sectionPadding);
   text-align: center;
-  background-image: url(/images/Background-Images/new-era_1280x720.jpg);
+  background-image: url(../images/Background-Images/new-era_1280x720.jpg);
   background-size: cover;
   position: relative;
 }
@@ -790,7 +790,7 @@ header nav .form i{
 .quote{
   padding-top: var(--sectionPadding);
   padding-bottom: var(--sectionPadding);
-  background-image: url(/images/Background-Images/the-cosmic-torii_1280x720.jpg);
+  background-image: url(../images/Background-Images/the-cosmic-torii_1280x720.jpg);
   background-size: cover;
   position: relative;
   text-align: center;
@@ -933,7 +933,7 @@ header nav .form i{
 .subscribe{
   padding-top: var(--sectionPadding);
   padding-bottom: var(--sectionPadding);
-  background-image: url(/images/Background-Images/happiness_1280x720.jpg);
+  background-image: url(../images/Background-Images/happiness_1280x720.jpg);
   background-size: cover;
   position: relative;
   color: white;
@@ -1100,7 +1100,7 @@ header nav .form i{
 footer{
   padding-top: calc(var(--sectionPadding) / 2);
   padding-bottom: calc(var(--sectionPadding) / 2);
-  background-image: url(/images/Background-Images/the-cosmic-torii_1280x720.jpg);
+  background-image: url(../images/Background-Images/the-cosmic-torii_1280x720.jpg);
   background-size: cover;
   color: white;
   text-align: center;
